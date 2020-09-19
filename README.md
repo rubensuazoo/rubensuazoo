@@ -1,3 +1,6 @@
+![Header](/img/header.png)
+
+
 Hi there 👋 I'm Ruben Suazo,
 A web developer who passionate about code.
 
