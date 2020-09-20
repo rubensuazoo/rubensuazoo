@@ -8,7 +8,7 @@ A web developer who passionate about code.
 - 🔭 I’m currently working on personal project that helps people find new music.
 - 💡 I'm interested in all things web.
 - 💬 Talk to me about video games, memes, music, and anything that interests you.
-- 🌱 I’m currently pursuing web development
+- 🌱 I’m currently pursuing career in web development
 - Lets Link! [Linkedin](https://www.linkedin.com/in/rubensuazoo)
 - Portfolio (under construction...)
 
